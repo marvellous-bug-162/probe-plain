@@ -1,0 +1,3 @@
+# probe-plain
+
+Short test.
